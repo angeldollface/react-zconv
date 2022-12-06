@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-zconv/static/css/main.3121ce6d.css",
+    "main.js": "/react-zconv/static/js/main.cd347498.js",
+    "index.html": "/react-zconv/index.html",
+    "main.3121ce6d.css.map": "/react-zconv/static/css/main.3121ce6d.css.map",
+    "main.cd347498.js.map": "/react-zconv/static/js/main.cd347498.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3121ce6d.css",
+    "static/js/main.cd347498.js"
+  ]
+}
