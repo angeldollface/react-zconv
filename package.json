@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "sass": "^1.56.1",
-    "zeppo": "^1.5.0"
+    "zeppo": "^1.6.0"
   },
   "homepage": "/react-zconv/"
 }
