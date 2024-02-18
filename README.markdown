@@ -10,7 +10,7 @@ A while back I wrote a library that provides functions to convert between number
 
 ## DEPLOYED PROJECT ON GITHUB PAGES :rocket:
 
-To view a live deployed version of this project, click here: [VIEW](https://angeldollface.art/react-zconv)
+To view a live deployed version of this project, click here: [VIEW](https://angeldollface.boo/react-zconv)
 
 ## USAGE :hammer:
 
